@@ -1,0 +1,8 @@
+Arduino -> SQLite
+http://www.combustory.com/wiki/index.php/Arduino_Communications_-_SQLite
+
+Windows communication with Arduino
+http://petrimaki.com/2013/04/28/reading-arduino-serial-ports-in-windows-7/
+
+Read multiple variables from Serial Monitor
+http://arduino.cc/en/Tutorial/ReadASCIIString
